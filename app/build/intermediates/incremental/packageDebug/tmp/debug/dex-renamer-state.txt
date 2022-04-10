@@ -1,0 +1,4 @@
+#Sun Apr 10 22:04:20 CST 2022
+base.0=/Volumes/dev/uni-app/Android-SDK@3.3.13.81245_20220315/UniPlugin-Hello-AS/app/build/intermediates/dex/debug/minifyDebugWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
